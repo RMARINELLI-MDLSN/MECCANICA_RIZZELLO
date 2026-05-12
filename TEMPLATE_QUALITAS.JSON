@@ -1,0 +1,2241 @@
+{
+	"entity": "ORD",
+	"action": "INS",
+	"rows": [
+		{
+			"ordini": {
+				"columns": [
+					{
+						"name": "ordine",
+						"value": "TEST6"
+					},
+					{
+						"name": "descrizione",
+						"value": "DELLE VENEZIE IGT PINOT G/CH 13"
+					},
+					{
+						"name": "part_number",
+						"value": "F13EAN06ICUK314504"
+					},
+					{
+						"name": "lotto",
+						"value": "L15028B"
+					},
+					{
+						"name": "cod_ciclo",
+						"value": "LINEA2-B"
+					},
+					{
+						"name": "alt_ciclo",
+						"value": 11
+					},
+					{
+						"name": "azienda",
+						"value": "Z001"
+					},
+					{
+						"name": "reparto",
+						"value": "L002"
+					},
+					{
+						"name": "commessa",
+						"value": ""
+					},
+					{
+						"name": "tipo",
+						"value": "MAKE"
+					},
+					{
+						"name": "magazzino",
+						"value": "M003"
+					},
+					{
+						"name": "qta_richiesta",
+						"value": 56470.0
+					},
+					{
+						"name": "qta_lanciata",
+						"value": 0.0
+					},
+					{
+						"name": "qta_completata",
+						"value": 0.0
+					},
+					{
+						"name": "qta_versata",
+						"value": 0.0
+					},
+					{
+						"name": "quantita1",
+						"value": 0.0
+					},
+					{
+						"name": "quantita2",
+						"value": 0.0
+					},
+					{
+						"name": "quantita3",
+						"value": 0.0
+					},
+					{
+						"name": "quantita4",
+						"value": 0.0
+					},
+					{
+						"name": "ceff_materiale",
+						"value": 0.0
+					},
+					{
+						"name": "ceff_macchina",
+						"value": 0.0
+					},
+					{
+						"name": "ceff_manodopera",
+						"value": 0.0
+					},
+					{
+						"name": "ceff_fix_mac",
+						"value": 0.0
+					},
+					{
+						"name": "ceff_fix_man",
+						"value": 0.0
+					},
+					{
+						"name": "priorita",
+						"value": 0
+					},
+					{
+						"name": "data_iniz_prog",
+						"value": "2016-03-07T19:25:27Z"
+					},
+					{
+						"name": "data_fine_prog",
+						"value": "2016-03-08T09:36:18Z"
+					},
+					{
+						"name": "data_inizio",
+						"value": "2019-10-28T16:13:22Z"
+					},
+					{
+						"name": "stato",
+						"value": "REL"
+					},
+					{
+						"name": "stampato",
+						"value": "N"
+					},
+					{
+						"name": "data_ins",
+						"value": "2015-01-26T09:53:09Z"
+					},
+					{
+						"name": "data_upd",
+						"value": "2020-09-23T14:45:00Z"
+					},
+					{
+						"name": "data_emissione",
+						"value": "2020-09-23T14:45:00Z"
+					},
+					{
+						"name": "utente_upd",
+						"value": "ADMIN"
+					},
+					{
+						"name": "valore01",
+						"value": 0.0
+					},
+					{
+						"name": "valore02",
+						"value": 0.0
+					},
+					{
+						"name": "valore03",
+						"value": 0.0
+					},
+					{
+						"name": "valore04",
+						"value": 0.0
+					},
+					{
+						"name": "valore05",
+						"value": 0.0
+					},
+					{
+						"name": "fplstdate",
+						"value": "2020-11-06T23:00:00Z"
+					},
+					{
+						"name": "fplduedate",
+						"value": "2020-11-06T23:00:00Z"
+					},
+					{
+						"name": "frqstdate",
+						"value": "2015-01-28T13:57:55Z"
+					},
+					{
+						"name": "frqduedate",
+						"value": "2015-01-28T21:00:00Z"
+					},
+					{
+						"name": "faltpnumb",
+						"value": "0"
+					},
+					{
+						"name": "stato_capacita",
+						"value": "V"
+					},
+					{
+						"name": "stato_materiali",
+						"value": "NA"
+					},
+					{
+						"name": "stato_ritardi",
+						"value": "V"
+					},
+					{
+						"name": "gg_ritardo",
+						"value": 0
+					},
+					{
+						"name": "fplanned",
+						"value": "N"
+					},
+					{
+						"name": "attivo",
+						"value": "Y"
+					},
+					{
+						"name": "eccnettype",
+						"value": "C"
+					},
+					{
+						"name": "fplstmindate",
+						"value": "2020-11-06T23:00:00Z"
+					},
+					{
+						"name": "fplleadtime",
+						"value": 0
+					},
+					{
+						"name": "fnattachment",
+						"value": 0
+					},
+					{
+						"name": "fndescs",
+						"value": 2
+					},
+					{
+						"name": "fbeprodqty",
+						"value": 56470.0
+					},
+					{
+						"name": "fhasalt",
+						"value": 0
+					}
+				]
+			},
+			"operazioni": {
+				"rows": [
+					{
+						"columns": [
+							{
+								"name": "ordine",
+								"value": "TEST6"
+							},
+							{
+								"name": "sequenza",
+								"value": 10
+							},
+							{
+								"name": "operazione",
+								"value": "10"
+							},
+							{
+								"name": "id_oper",
+								"value": "111084"
+							},
+							{
+								"name": "stato",
+								"value": "SUS"
+							},
+							{
+								"name": "descrizione",
+								"value": "DEPALLETTIZZAZIONE"
+							},
+							{
+								"name": "tipo",
+								"value": "WRK"
+							},
+							{
+								"name": "locale",
+								"value": "LOC"
+							},
+							{
+								"name": "qta_richiesta",
+								"value": 56470.0
+							},
+							{
+								"name": "qta_completata",
+								"value": 0.0
+							},
+							{
+								"name": "qta_sospesa",
+								"value": 0.0
+							},
+							{
+								"name": "qta_scartata",
+								"value": 0.0
+							},
+							{
+								"name": "quantita1",
+								"value": 0.0
+							},
+							{
+								"name": "quantita2",
+								"value": 0.0
+							},
+							{
+								"name": "quantita3",
+								"value": 0.0
+							},
+							{
+								"name": "quantita4",
+								"value": 0.0
+							},
+							{
+								"name": "qta_prelevata",
+								"value": 0.0
+							},
+							{
+								"name": "qta_base",
+								"value": 10900.0
+							},
+							{
+								"name": "t_preventivo",
+								"value": 0.0
+							},
+							{
+								"name": "t_setup_mac",
+								"value": 0.0
+							},
+							{
+								"name": "t_setup_man",
+								"value": 0.0
+							},
+							{
+								"name": "t_fix_mac",
+								"value": 0.0
+							},
+							{
+								"name": "t_fix_man",
+								"value": 0.0
+							},
+							{
+								"name": "t_lavoro_mac",
+								"value": 1.0
+							},
+							{
+								"name": "t_lavoro_man",
+								"value": 1.0
+							},
+							{
+								"name": "tot_suppl_mac",
+								"value": 0.0
+							},
+							{
+								"name": "tot_suppl_man",
+								"value": 0.0
+							},
+							{
+								"name": "teff_setup_mac",
+
+								"value": 0.0
+							},
+							{
+								"name": "teff_setup_man",
+								"value": 0.0
+							},
+							{
+								"name": "teff_lavoro_mac",
+								"value": 0.0
+							},
+							{
+								"name": "teff_lavoro_man",
+								"value": 0.0
+							},
+							{
+								"name": "teff_giust_mac",
+								"value": 0.0
+							},
+							{
+								"name": "teff_giust_man",
+								"value": 0.0
+							},
+							{
+								"name": "ceff_fix_mac",
+								"value": 0.0
+							},
+							{
+								"name": "ceff_fix_man",
+								"value": 0.0
+							},
+							{
+								"name": "ceff_macchina",
+								"value": 0.0
+							},
+							{
+								"name": "ceff_manodopera",
+								"value": 0.0
+							},
+							{
+								"name": "num_split",
+								"value": 1
+							},
+							{
+								"name": "data_iniz_prog",
+								"value": "2016-03-07T19:25:27Z"
+							},
+							{
+								"name": "data_fine_prog",
+								"value": "2016-03-08T09:36:18Z"
+							},
+							{
+								"name": "data_inizio",
+								"value": "2019-10-28T16:13:22Z"
+							},
+							{
+								"name": "centro_assegnato",
+								"value": "L2_DEPAL"
+							},
+							{
+								"name": "centro_reale",
+								"value": "L2_DEPAL"
+							},
+							{
+								"name": "centro_successivo",
+								"value": "L2_RIEMPI"
+							},
+							{
+								"name": "data_ins",
+								"value": "2015-01-26T10:16:51Z"
+							},
+							{
+								"name": "data_upd",
+								"value": "2019-10-31T10:17:36Z"
+							},
+							{
+								"name": "utente_upd",
+								"value": "ADMIN"
+							},
+							{
+								"name": "macchina_assegnata",
+								"value": "L2_DEPAL"
+							},
+							{
+								"name": "qta_coda",
+								"value": 0.0
+							},
+							{
+								"name": "qta_recuperata",
+								"value": 0.0
+							},
+							{
+								"name": "fplstdate",
+								"value": "2020-11-06T23:00:00Z"
+							},
+							{
+								"name": "fplduedate",
+								"value": "2020-11-07T04:10:50Z"
+							},
+							{
+								"name": "stato_capacita",
+								"value": "NU"
+							},
+							{
+								"name": "fopealt",
+								"value": 0
+							},
+							{
+								"name": "factive",
+								"value": "Y"
+							},
+							{
+								"name": "fnattachment",
+								"value": 0
+							},
+							{
+								"name": "fndescs",
+								"value": 1
+							},
+							{
+								"name": "faltforced",
+								"value": "N"
+							},
+							{
+								"name": "fdaycross",
+								"value": 0
+							}
+						]
+					},
+					{
+						"columns": [
+							{
+								"name": "ordine",
+								"value": "TEST6"
+							},
+							{
+								"name": "sequenza",
+								"value": 20
+							},
+							{
+								"name": "operazione",
+								"value": "20"
+							},
+							{
+								"name": "id_oper",
+								"value": "111085"
+							},
+							{
+								"name": "stato",
+								"value": "REL"
+							},
+							{
+								"name": "descrizione",
+								"value": "RIEMPIMENTO"
+							},
+							{
+								"name": "tipo",
+								"value": "WRK"
+							},
+							{
+								"name": "locale",
+								"value": "LOC"
+							},
+							{
+								"name": "qta_richiesta",
+								"value": 56470.0
+							},
+							{
+								"name": "qta_completata",
+								"value": 0.0
+							},
+							{
+								"name": "qta_sospesa",
+								"value": 0.0
+							},
+							{
+								"name": "qta_scartata",
+								"value": 0.0
+							},
+							{
+								"name": "quantita1",
+								"value": 0.0
+							},
+							{
+								"name": "quantita2",
+								"value": 0.0
+							},
+							{
+								"name": "quantita3",
+								"value": 0.0
+							},
+							{
+								"name": "quantita4",
+								"value": 0.0
+							},
+							{
+								"name": "qta_prelevata",
+								"value": 0.0
+							},
+							{
+								"name": "qta_base",
+								"value": 10900.0
+							},
+							{
+								"name": "t_preventivo",
+								"value": 0.0
+							},
+							{
+								"name": "t_setup_mac",
+								"value": 0.0
+							},
+							{
+								"name": "t_setup_man",
+								"value": 0.0
+							},
+							{
+								"name": "t_fix_mac",
+								"value": 0.0
+							},
+							{
+								"name": "t_fix_man",
+								"value": 0.0
+							},
+							{
+								"name": "t_lavoro_mac",
+								"value": 1.0
+							},
+							{
+								"name": "t_lavoro_man",
+								"value": 1.0
+							},
+							{
+								"name": "tot_suppl_mac",
+								"value": 0.0
+							},
+							{
+								"name": "tot_suppl_man",
+								"value": 0.0
+							},
+							{
+								"name": "teff_setup_mac",
+								"value": 0.0
+							},
+							{
+								"name": "teff_setup_man",
+								"value": 0.0
+							},
+							{
+								"name": "teff_lavoro_mac",
+								"value": 0.0
+							},
+							{
+								"name": "teff_lavoro_man",
+								"value": 0.0
+							},
+							{
+								"name": "teff_giust_mac",
+								"value": 0.0
+							},
+							{
+								"name": "teff_giust_man",
+								"value": 0.0
+							},
+							{
+								"name": "ceff_fix_mac",
+								"value": 0.0
+							},
+							{
+								"name": "ceff_fix_man",
+								"value": 0.0
+							},
+							{
+								"name": "ceff_macchina",
+								"value": 0.0
+							},
+							{
+								"name": "ceff_manodopera",
+								"value": 0.0
+							},
+							{
+								"name": "num_split",
+								"value": 1
+							},
+							{
+								"name": "data_iniz_prog",
+								"value": "2015-02-05T05:00:00Z"
+							},
+							{
+								"name": "data_fine_prog",
+								"value": "2015-02-05T10:10:50Z"
+							},
+							{
+								"name": "centro_assegnato",
+								"value": "L2_RIEMPI"
+							},
+							{
+								"name": "centro_reale",
+								"value": "L2_RIEMPI"
+							},
+							{
+								"name": "centro_successivo",
+								"value": "L2_CAPSU"
+							},
+							{
+								"name": "data_ins",
+								"value": "2015-01-26T10:16:51Z"
+							},
+							{
+								"name": "data_upd",
+								"value": "2020-09-23T14:45:06Z"
+							},
+							{
+								"name": "utente_upd",
+								"value": "__________"
+							},
+							{
+								"name": "macchina_assegnata",
+								"value": "L2_RIEMPI"
+							},
+							{
+								"name": "qta_coda",
+								"value": 0.0
+							},
+							{
+								"name": "qta_recuperata",
+								"value": 0.0
+							},
+							{
+								"name": "fplstdate",
+								"value": "2020-11-06T23:00:00Z"
+							},
+							{
+								"name": "fplduedate",
+								"value": "2020-11-07T04:10:50Z"
+							},
+							{
+								"name": "qta_impiego",
+								"value": 1.0
+							},
+							{
+								"name": "stato_capacita",
+								"value": "NU"
+							},
+							{
+								"name": "fopealt",
+								"value": 0
+							},
+							{
+								"name": "factive",
+								"value": "Y"
+							},
+							{
+								"name": "fnattachment",
+								"value": 0
+							},
+							{
+								"name": "fndescs",
+								"value": 2
+							},
+							{
+								"name": "faltforced",
+								"value": "N"
+							},
+							{
+								"name": "fdaycross",
+								"value": 0
+							}
+						]
+					},
+					{
+						"columns": [
+							{
+								"name": "ordine",
+								"value": "TEST6"
+							},
+							{
+								"name": "sequenza",
+								"value": 30
+							},
+							{
+								"name": "operazione",
+								"value": "30"
+							},
+							{
+								"name": "id_oper",
+								"value": "111086"
+							},
+							{
+								"name": "stato",
+								"value": "REL"
+							},
+							{
+								"name": "descrizione",
+								"value": "INCAPSULATURA"
+							},
+							{
+								"name": "tipo",
+								"value": "WRK"
+							},
+							{
+								"name": "locale",
+								"value": "LOC"
+							},
+							{
+								"name": "qta_richiesta",
+								"value": 56470.0
+							},
+							{
+								"name": "qta_completata",
+								"value": 0.0
+							},
+							{
+								"name": "qta_sospesa",
+								"value": 0.0
+							},
+							{
+								"name": "qta_scartata",
+								"value": 0.0
+							},
+							{
+								"name": "quantita1",
+								"value": 0.0
+							},
+							{
+								"name": "quantita2",
+								"value": 0.0
+							},
+							{
+								"name": "quantita3",
+								"value": 0.0
+							},
+							{
+								"name": "quantita4",
+								"value": 0.0
+							},
+							{
+								"name": "qta_prelevata",
+								"value": 0.0
+							},
+							{
+								"name": "qta_base",
+								"value": 10900.0
+							},
+							{
+								"name": "t_preventivo",
+								"value": 0.0
+							},
+							{
+								"name": "t_setup_mac",
+								"value": 0.0
+							},
+							{
+								"name": "t_setup_man",
+								"value": 0.0
+							},
+							{
+								"name": "t_fix_mac",
+								"value": 0.0
+							},
+							{
+								"name": "t_fix_man",
+								"value": 0.0
+							},
+							{
+								"name": "t_lavoro_mac",
+								"value": 1.0
+							},
+							{
+								"name": "t_lavoro_man",
+								"value": 1.0
+							},
+							{
+								"name": "tot_suppl_mac",
+								"value": 0.0
+							},
+							{
+								"name": "tot_suppl_man",
+								"value": 0.0
+							},
+							{
+								"name": "teff_setup_mac",
+								"value": 0.0
+							},
+							{
+								"name": "teff_setup_man",
+								"value": 0.0
+							},
+							{
+								"name": "teff_lavoro_mac",
+								"value": 0.0
+							},
+							{
+								"name": "teff_lavoro_man",
+								"value": 0.0
+							},
+							{
+								"name": "teff_giust_mac",
+								"value": 0.0
+							},
+							{
+								"name": "teff_giust_man",
+								"value": 0.0
+							},
+							{
+								"name": "ceff_fix_mac",
+								"value": 0.0
+							},
+							{
+								"name": "ceff_fix_man",
+								"value": 0.0
+							},
+							{
+								"name": "ceff_macchina",
+								"value": 0.0
+							},
+							{
+								"name": "ceff_manodopera",
+								"value": 0.0
+							},
+							{
+								"name": "num_split",
+								"value": 1
+							},
+							{
+								"name": "data_iniz_prog",
+								"value": "2016-06-13T13:41:06Z"
+							},
+							{
+								"name": "data_fine_prog",
+								"value": "2016-06-13T18:51:56Z"
+							},
+							{
+								"name": "centro_assegnato",
+								"value": "L2_CAPSU"
+							},
+							{
+								"name": "centro_reale",
+								"value": "L2_CAPSU"
+							},
+							{
+								"name": "centro_successivo",
+								"value": "L2_ETADE"
+							},
+							{
+								"name": "data_ins",
+								"value": "2015-01-26T10:16:51Z"
+							},
+							{
+								"name": "data_upd",
+								"value": "2015-01-26T10:24:36Z"
+							},
+							{
+								"name": "utente_upd",
+								"value": "ADMIN"
+							},
+							{
+								"name": "macchina_assegnata",
+								"value": "L2_CAPSU"
+							},
+							{
+								"name": "qta_coda",
+								"value": 0.0
+							},
+							{
+								"name": "qta_recuperata",
+								"value": 0.0
+							},
+							{
+								"name": "fplstdate",
+								"value": "2020-11-06T23:00:00Z"
+							},
+							{
+								"name": "fplduedate",
+								"value": "2020-11-07T04:10:50Z"
+							},
+							{
+								"name": "qta_impiego",
+								"value": 1.0
+							},
+							{
+								"name": "stato_capacita",
+								"value": "NU"
+							},
+							{
+								"name": "fopealt",
+								"value": 0
+							},
+							{
+								"name": "factive",
+								"value": "Y"
+							},
+							{
+								"name": "fnattachment",
+								"value": 0
+							},
+							{
+								"name": "fndescs",
+								"value": 0
+							},
+							{
+								"name": "faltforced",
+								"value": "N"
+							},
+							{
+								"name": "fdaycross",
+								"value": 0
+							}
+						]
+					},
+					{
+						"columns": [
+							{
+								"name": "ordine",
+								"value": "TEST6"
+							},
+							{
+								"name": "sequenza",
+								"value": 40
+							},
+							{
+								"name": "operazione",
+								"value": "40"
+							},
+							{
+								"name": "id_oper",
+								"value": "111087"
+							},
+							{
+								"name": "stato",
+								"value": "REL"
+							},
+							{
+								"name": "descrizione",
+								"value": "ETICHETTATURA"
+							},
+							{
+								"name": "tipo",
+								"value": "WRK"
+							},
+							{
+								"name": "locale",
+								"value": "LOC"
+							},
+							{
+								"name": "qta_richiesta",
+								"value": 56470.0
+							},
+							{
+								"name": "qta_completata",
+								"value": 0.0
+							},
+							{
+								"name": "qta_sospesa",
+								"value": 0.0
+							},
+							{
+								"name": "qta_scartata",
+								"value": 0.0
+							},
+							{
+								"name": "quantita1",
+								"value": 0.0
+							},
+							{
+								"name": "quantita2",
+								"value": 0.0
+							},
+							{
+								"name": "quantita3",
+								"value": 0.0
+							},
+							{
+								"name": "quantita4",
+								"value": 0.0
+							},
+							{
+								"name": "qta_prelevata",
+								"value": 0.0
+							},
+							{
+								"name": "qta_base",
+								"value": 10900.0
+							},
+							{
+								"name": "t_preventivo",
+								"value": 0.0
+							},
+							{
+								"name": "t_setup_mac",
+								"value": 0.0
+							},
+							{
+								"name": "t_setup_man",
+								"value": 0.0
+							},
+							{
+								"name": "t_fix_mac",
+								"value": 0.0
+							},
+							{
+								"name": "t_fix_man",
+								"value": 0.0
+							},
+							{
+								"name": "t_lavoro_mac",
+								"value": 1.0
+							},
+							{
+								"name": "t_lavoro_man",
+								"value": 1.0
+							},
+							{
+								"name": "tot_suppl_mac",
+								"value": 0.0
+							},
+							{
+								"name": "tot_suppl_man",
+								"value": 0.0
+							},
+							{
+								"name": "teff_setup_mac",
+								"value": 0.0
+							},
+							{
+								"name": "teff_setup_man",
+								"value": 0.0
+							},
+							{
+								"name": "teff_lavoro_mac",
+								"value": 0.0
+							},
+							{
+								"name": "teff_lavoro_man",
+								"value": 0.0
+							},
+							{
+								"name": "teff_giust_mac",
+								"value": 0.0
+							},
+							{
+								"name": "teff_giust_man",
+								"value": 0.0
+							},
+							{
+								"name": "ceff_fix_mac",
+								"value": 0.0
+							},
+							{
+								"name": "ceff_fix_man",
+								"value": 0.0
+							},
+							{
+								"name": "ceff_macchina",
+								"value": 0.0
+							},
+							{
+								"name": "ceff_manodopera",
+								"value": 0.0
+							},
+							{
+								"name": "num_split",
+								"value": 1
+							},
+							{
+								"name": "data_iniz_prog",
+								"value": "2016-06-14T07:20:19Z"
+							},
+							{
+								"name": "data_fine_prog",
+								"value": "2016-06-14T12:31:09Z"
+							},
+							{
+								"name": "centro_assegnato",
+								"value": "L2_ETADE"
+							},
+							{
+								"name": "centro_reale",
+								"value": "L2_ETADE"
+							},
+							{
+								"name": "centro_successivo",
+								"value": "L2_ETCOLL"
+							},
+							{
+								"name": "data_ins",
+								"value": "2015-01-26T10:16:51Z"
+							},
+							{
+								"name": "data_upd",
+								"value": "2015-01-26T10:24:36Z"
+							},
+							{
+								"name": "utente_upd",
+								"value": "ADMIN"
+							},
+							{
+								"name": "macchina_assegnata",
+								"value": "L2_ETADE"
+							},
+							{
+								"name": "qta_coda",
+								"value": 0.0
+							},
+							{
+								"name": "qta_recuperata",
+								"value": 0.0
+							},
+							{
+								"name": "fplstdate",
+								"value": "2020-11-06T23:00:00Z"
+							},
+							{
+								"name": "fplduedate",
+								"value": "2020-11-07T04:10:50Z"
+							},
+							{
+								"name": "qta_impiego",
+								"value": 1.0
+							},
+							{
+								"name": "stato_capacita",
+								"value": "NU"
+							},
+							{
+								"name": "fopealt",
+								"value": 0
+							},
+							{
+								"name": "factive",
+								"value": "Y"
+							},
+							{
+								"name": "fnattachment",
+								"value": 0
+							},
+							{
+								"name": "fndescs",
+								"value": 0
+							},
+							{
+								"name": "faltforced",
+								"value": "N"
+							},
+							{
+								"name": "fdaycross",
+								"value": 0
+							}
+						]
+					}
+				]
+			},
+			"materiali_ordini": {
+				"rows": [
+					{
+						"columns": [
+							{
+								"name": "ordine",
+								"value": "TEST6"
+							},
+							{
+								"name": "operazione",
+								"value": "0"
+							},
+							{
+								"name": "sequenza",
+								"value": 1
+							},
+							{
+								"name": "part_number",
+								"value": "ETIFROAEC14641"
+							},
+							{
+								"name": "alt_part_number",
+								"value": "0"
+							},
+							{
+								"name": "lotto",
+								"value": "0"
+							},
+							{
+								"name": "magazzino",
+								"value": "M004"
+							},
+							{
+								"name": "tipo_qta",
+								"value": "TOT"
+							},
+							{
+								"name": "qta_richiesta",
+								"value": 0.0
+							},
+							{
+								"name": "quantita",
+								"value": 56499.0
+							},
+							{
+								"name": "um_quantita",
+								"value": "PZ"
+							},
+							{
+								"name": "qta_prelevata",
+								"value": 0.0
+							},
+							{
+								"name": "qta_impiego",
+								"value": 1.0005135
+							},
+							{
+								"name": "qta_usata",
+								"value": 0.0
+							},
+							{
+								"name": "peso",
+								"value": 0.0
+							},
+							{
+								"name": "valore01",
+								"value": 0.0
+							},
+							{
+								"name": "valore02",
+								"value": 0.0
+							},
+							{
+								"name": "valore03",
+								"value": 0.0
+							},
+							{
+								"name": "valore04",
+								"value": 0.0
+							},
+							{
+								"name": "valore05",
+								"value": 0.0
+							},
+							{
+								"name": "codice01",
+								"value": "0000131785"
+							}
+						]
+					},
+					{
+						"columns": [
+							{
+								"name": "ordine",
+								"value": "TEST6"
+							},
+							{
+								"name": "operazione",
+								"value": "0"
+							},
+							{
+								"name": "sequenza",
+								"value": 2
+							},
+							{
+								"name": "part_number",
+								"value": "CAR006MGM00813"
+							},
+							{
+								"name": "alt_part_number",
+								"value": "0"
+							},
+							{
+								"name": "lotto",
+								"value": "0"
+							},
+							{
+								"name": "magazzino",
+								"value": "M012"
+							},
+							{
+								"name": "tipo_qta",
+								"value": "TOT"
+							},
+							{
+								"name": "qta_richiesta",
+								"value": 0.0
+							},
+							{
+								"name": "quantita",
+								"value": 9506.0
+							},
+							{
+								"name": "um_quantita",
+								"value": "PZ"
+							},
+							{
+								"name": "qta_prelevata",
+								"value": 0.0
+							},
+							{
+								"name": "qta_impiego",
+								"value": 0.1683372
+							},
+							{
+								"name": "qta_usata",
+								"value": 0.0
+							},
+							{
+								"name": "peso",
+								"value": 0.0
+							},
+							{
+								"name": "valore01",
+								"value": 0.0
+							},
+							{
+								"name": "valore02",
+								"value": 0.0
+							},
+							{
+								"name": "valore03",
+								"value": 0.0
+							},
+							{
+								"name": "valore04",
+								"value": 0.0
+							},
+							{
+								"name": "valore05",
+								"value": 0.0
+							},
+							{
+								"name": "codice01",
+								"value": "0000131785"
+							}
+						]
+					},
+					{
+						"columns": [
+							{
+								"name": "ordine",
+								"value": "TEST6"
+							},
+							{
+								"name": "operazione",
+								"value": "0"
+							},
+							{
+								"name": "sequenza",
+								"value": 4
+							},
+							{
+								"name": "part_number",
+								"value": "BTGBRDBVS01575"
+							},
+							{
+								"name": "alt_part_number",
+								"value": "0"
+							},
+							{
+								"name": "lotto",
+								"value": "0"
+							},
+							{
+								"name": "magazzino",
+								"value": "M004"
+							},
+							{
+								"name": "tipo_qta",
+								"value": "TOT"
+							},
+							{
+								"name": "qta_richiesta",
+								"value": 0.0
+							},
+							{
+								"name": "quantita",
+								"value": 56753.0
+							},
+							{
+								"name": "um_quantita",
+								"value": "PZ"
+							},
+							{
+								"name": "qta_prelevata",
+								"value": 0.0
+							},
+							{
+								"name": "qta_impiego",
+								"value": 1.0050115
+							},
+							{
+								"name": "qta_usata",
+								"value": 0.0
+							},
+							{
+								"name": "peso",
+								"value": 0.0
+							},
+							{
+								"name": "valore01",
+								"value": 0.0
+							},
+							{
+								"name": "valore02",
+								"value": 0.0
+							},
+							{
+								"name": "valore03",
+								"value": 0.0
+							},
+							{
+								"name": "valore04",
+								"value": 0.0
+							},
+							{
+								"name": "valore05",
+								"value": 0.0
+							},
+							{
+								"name": "codice01",
+								"value": "0000131785"
+							}
+						]
+					},
+					{
+						"columns": [
+							{
+								"name": "ordine",
+								"value": "TEST6"
+							},
+							{
+								"name": "operazione",
+								"value": "0"
+							},
+							{
+								"name": "sequenza",
+								"value": 5
+							},
+							{
+								"name": "part_number",
+								"value": "206312"
+							},
+							{
+								"name": "alt_part_number",
+								"value": "0"
+							},
+							{
+								"name": "lotto",
+								"value": "0"
+							},
+							{
+								"name": "magazzino",
+								"value": "M002"
+							},
+							{
+								"name": "tipo_qta",
+								"value": "TOT"
+							},
+							{
+								"name": "qta_richiesta",
+								"value": 0.0
+							},
+							{
+								"name": "quantita",
+								"value": 42352.5
+							},
+							{
+								"name": "um_quantita",
+								"value": "L"
+							},
+							{
+								"name": "qta_prelevata",
+								"value": 0.0
+							},
+							{
+								"name": "qta_impiego",
+								"value": 0.75
+							},
+							{
+								"name": "qta_usata",
+								"value": 0.0
+							},
+							{
+								"name": "peso",
+								"value": 0.0
+							},
+							{
+								"name": "valore01",
+								"value": 0.0
+							},
+							{
+								"name": "valore02",
+								"value": 0.0
+							},
+							{
+								"name": "valore03",
+								"value": 0.0
+							},
+							{
+								"name": "valore04",
+								"value": 0.0
+							},
+							{
+								"name": "valore05",
+								"value": 0.0
+							},
+							{
+								"name": "codice01",
+								"value": "0000131785"
+							}
+						]
+					},
+					{
+						"columns": [
+							{
+								"name": "ordine",
+								"value": "TEST6"
+							},
+							{
+								"name": "operazione",
+								"value": "0"
+							},
+							{
+								"name": "sequenza",
+								"value": 6
+							},
+							{
+								"name": "part_number",
+								"value": "TAPBVSPRS13166"
+							},
+							{
+								"name": "alt_part_number",
+								"value": "0"
+							},
+							{
+								"name": "lotto",
+								"value": "0"
+							},
+							{
+								"name": "magazzino",
+								"value": "M012"
+							},
+							{
+								"name": "tipo_qta",
+								"value": "TOT"
+							},
+							{
+								"name": "qta_richiesta",
+								"value": 0.0
+							},
+							{
+								"name": "quantita",
+								"value": 56499.0
+							},
+							{
+								"name": "um_quantita",
+								"value": "PZ"
+							},
+							{
+								"name": "qta_prelevata",
+								"value": 0.0
+							},
+							{
+								"name": "qta_impiego",
+								"value": 1.0005135
+							},
+							{
+								"name": "qta_usata",
+								"value": 0.0
+							},
+							{
+								"name": "peso",
+								"value": 0.0
+							},
+							{
+								"name": "valore01",
+								"value": 0.0
+							},
+							{
+								"name": "valore02",
+								"value": 0.0
+							},
+							{
+								"name": "valore03",
+								"value": 0.0
+							},
+							{
+								"name": "valore04",
+								"value": 0.0
+							},
+							{
+								"name": "valore05",
+								"value": 0.0
+							},
+							{
+								"name": "codice01",
+								"value": "0000131785"
+							}
+						]
+					},
+					{
+						"columns": [
+							{
+								"name": "ordine",
+								"value": "TEST6"
+							},
+							{
+								"name": "operazione",
+								"value": "0"
+							},
+							{
+								"name": "sequenza",
+								"value": 7
+							},
+							{
+								"name": "part_number",
+								"value": "PALIC0LEG02004"
+							},
+							{
+								"name": "alt_part_number",
+								"value": "0"
+							},
+							{
+								"name": "lotto",
+								"value": "0"
+							},
+							{
+								"name": "magazzino",
+								"value": "M004"
+							},
+							{
+								"name": "tipo_qta",
+								"value": "TOT"
+							},
+							{
+								"name": "qta_richiesta",
+								"value": 0.0
+							},
+							{
+								"name": "quantita",
+								"value": 80.0
+							},
+							{
+								"name": "um_quantita",
+								"value": "PZ"
+							},
+							{
+								"name": "qta_prelevata",
+								"value": 0.0
+							},
+							{
+								"name": "qta_impiego",
+								"value": 0.0014167
+							},
+							{
+								"name": "qta_usata",
+								"value": 0.0
+							},
+							{
+								"name": "peso",
+								"value": 0.0
+							},
+							{
+								"name": "valore01",
+								"value": 0.0
+							},
+							{
+								"name": "valore02",
+								"value": 0.0
+							},
+							{
+								"name": "valore03",
+								"value": 0.0
+							},
+							{
+								"name": "valore04",
+								"value": 0.0
+							},
+							{
+								"name": "valore05",
+								"value": 0.0
+							},
+							{
+								"name": "codice01",
+								"value": "0000131785"
+							}
+						]
+					},
+					{
+						"columns": [
+							{
+								"name": "ordine",
+								"value": "TEST6"
+							},
+							{
+								"name": "operazione",
+								"value": "0"
+							},
+							{
+								"name": "sequenza",
+								"value": 8
+							},
+							{
+								"name": "part_number",
+								"value": "PALIC0LEG02004"
+							},
+							{
+								"name": "alt_part_number",
+								"value": "0"
+							},
+							{
+								"name": "lotto",
+								"value": "0"
+							},
+							{
+								"name": "magazzino",
+								"value": "M025"
+							},
+							{
+								"name": "tipo_qta",
+								"value": "TOT"
+							},
+							{
+								"name": "qta_richiesta",
+								"value": 0.0
+							},
+							{
+								"name": "quantita",
+								"value": 79.0
+							},
+							{
+								"name": "um_quantita",
+								"value": "PZ"
+							},
+							{
+								"name": "qta_prelevata",
+								"value": 0.0
+							},
+							{
+								"name": "qta_impiego",
+								"value": 0.001399
+							},
+							{
+								"name": "qta_usata",
+								"value": 0.0
+							},
+							{
+								"name": "peso",
+								"value": 0.0
+							},
+							{
+								"name": "valore01",
+								"value": 0.0
+							},
+							{
+								"name": "valore02",
+								"value": 0.0
+							},
+							{
+								"name": "valore03",
+								"value": 0.0
+							},
+							{
+								"name": "valore04",
+								"value": 0.0
+							},
+							{
+								"name": "valore05",
+								"value": 0.0
+							},
+							{
+								"name": "codice01",
+								"value": "0000131785"
+							}
+						]
+					},
+					{
+						"columns": [
+							{
+								"name": "ordine",
+								"value": "TEST6"
+							},
+							{
+								"name": "operazione",
+								"value": "0"
+							},
+							{
+								"name": "sequenza",
+								"value": 9
+							},
+							{
+								"name": "part_number",
+								"value": "0"
+							},
+							{
+								"name": "alt_part_number",
+								"value": "0"
+							},
+							{
+								"name": "lotto",
+								"value": "0"
+							},
+							{
+								"name": "magazzino",
+								"value": "M025"
+							},
+							{
+								"name": "tipo_qta",
+								"value": "TOT"
+							},
+							{
+								"name": "qta_richiesta",
+								"value": 0.0
+							},
+							{
+								"name": "quantita",
+								"value": 79.0
+							},
+							{
+								"name": "um_quantita",
+								"value": "PZ"
+							},
+							{
+								"name": "qta_prelevata",
+								"value": 0.0
+							},
+							{
+								"name": "qta_impiego",
+								"value": 0.001399
+							},
+							{
+								"name": "qta_usata",
+								"value": 0.0
+							},
+							{
+								"name": "peso",
+								"value": 0.0
+							},
+							{
+								"name": "valore01",
+								"value": 0.0
+							},
+							{
+								"name": "valore02",
+								"value": 0.0
+							},
+							{
+								"name": "valore03",
+								"value": 0.0
+							},
+							{
+								"name": "valore04",
+								"value": 0.0
+							},
+							{
+								"name": "valore05",
+								"value": 0.0
+							},
+							{
+								"name": "codice01",
+								"value": "BB"
+							}
+						]
+					},
+					{
+						"columns": [
+							{
+								"name": "ordine",
+								"value": "TEST6"
+							},
+							{
+								"name": "operazione",
+								"value": "0"
+							},
+							{
+								"name": "sequenza",
+								"value": 10
+							},
+							{
+								"name": "part_number",
+								"value": "001"
+							},
+							{
+								"name": "alt_part_number",
+								"value": "0"
+							},
+							{
+								"name": "lotto",
+								"value": "0"
+							},
+							{
+								"name": "magazzino",
+								"value": "M025"
+							},
+							{
+								"name": "tipo_qta",
+								"value": "TOT"
+							},
+							{
+								"name": "qta_richiesta",
+								"value": 0.0
+							},
+							{
+								"name": "quantita",
+								"value": 79.0
+							},
+							{
+								"name": "um_quantita",
+								"value": "PZ"
+							},
+							{
+								"name": "qta_prelevata",
+								"value": 0.0
+							},
+							{
+								"name": "qta_impiego",
+								"value": 0.001399
+							},
+							{
+								"name": "qta_usata",
+								"value": 0.0
+							},
+							{
+								"name": "peso",
+								"value": 0.0
+							},
+							{
+								"name": "valore01",
+								"value": 0.0
+							},
+							{
+								"name": "valore02",
+								"value": 0.0
+							},
+							{
+								"name": "valore03",
+								"value": 0.0
+							},
+							{
+								"name": "valore04",
+								"value": 0.0
+							},
+							{
+								"name": "valore05",
+								"value": 0.0
+							},
+							{
+								"name": "codice01",
+								"value": "BB"
+							}
+						]
+					}
+				]
+			},
+			"risorse_operazioni": {
+				"rows": [
+					{
+						"columns": [
+							{
+								"name": "ordine",
+								"value": "TEST6"
+							},
+							{
+								"name": "operazione",
+								"value": "40"
+							},
+							{
+								"name": "risorsa",
+								"value": "R001"
+							},
+							{
+								"name": "descrizione",
+								"value": "Risorsa R001"
+							},
+							{
+								"name": "tipo",
+								"value": "TOOL"
+							},
+							{
+								"name": "quantita",
+								"value": 1.0
+							}
+						]
+					}
+				]
+			},
+			"fdescs": {
+				"rows": [
+					{
+						"columns": [
+							{
+								"name": "fobject",
+								"value": "TEST6"
+							},
+							{
+								"name": "fobject2",
+								"value": "0"
+							},
+							{
+								"name": "fobjtype",
+								"value": "ORD"
+							},
+							{
+								"name": "ftype",
+								"value": "ORD"
+							},
+							{
+								"name": "flanguage",
+								"value": "IT"
+							},
+							{
+								"name": "frow",
+								"value": 0
+							},
+							{
+								"name": "fdesc",
+								"value": "Nota dell'ordine"
+							},
+							{
+								"name": "fuser",
+								"value": "ADMIN"
+							},
+							{
+								"name": "finsdate",
+								"value": "2020-12-01T13:40:04Z"
+							}
+						]
+					},
+					{
+						"columns": [
+							{
+								"name": "fobject",
+								"value": "TEST6"
+							},
+							{
+								"name": "fobject2",
+								"value": "10"
+							},
+							{
+								"name": "fobjtype",
+								"value": "JOB"
+							},
+							{
+								"name": "ftype",
+								"value": "ORD"
+							},
+							{
+								"name": "flanguage",
+								"value": "IT"
+							},
+							{
+								"name": "frow",
+								"value": 0
+							},
+							{
+								"name": "fdesc",
+								"value": "Nota dell'operazione 10"
+							},
+							{
+								"name": "fuser",
+								"value": "ADMIN"
+							},
+							{
+								"name": "finsdate",
+								"value": "2020-12-01T13:41:04Z"
+							}
+						]
+					},
+					{
+						"columns": [
+							{
+								"name": "fobject",
+								"value": "TEST6"
+							},
+							{
+								"name": "fobject2",
+								"value": "20"
+							},
+							{
+								"name": "fobjtype",
+								"value": "JOB"
+							},
+							{
+								"name": "ftype",
+								"value": "ORD"
+							},
+							{
+								"name": "flanguage",
+								"value": "IT"
+							},
+							{
+								"name": "frow",
+								"value": 0
+							},
+							{
+								"name": "fdesc",
+								"value": "Nota dell'operazione 20"
+							},
+							{
+								"name": "fuser",
+								"value": "ADMIN"
+							},
+							{
+								"name": "finsdate",
+								"value": "2020-12-01T13:41:31Z"
+							}
+						]
+					},
+					{
+						"columns": [
+							{
+								"name": "fobject",
+								"value": "TEST6"
+							},
+							{
+								"name": "fobject2",
+								"value": "20"
+							},
+							{
+								"name": "fobjtype",
+								"value": "JOB"
+							},
+							{
+								"name": "ftype",
+								"value": "ORD"
+							},
+							{
+								"name": "flanguage",
+								"value": "IT"
+							},
+							{
+								"name": "frow",
+								"value": 1
+							},
+							{
+								"name": "fdesc",
+								"value": "Nota dell'operazione 20 A"
+							},
+							{
+								"name": "fuser",
+								"value": "ADMIN"
+							},
+							{
+								"name": "finsdate",
+								"value": "2020-12-01T13:41:38Z"
+							}
+						]
+					}
+				]
+			},
+			"fsetwrkalt": {
+				"rows": [
+					{
+						"columns": [
+							{
+								"name": "forder",
+								"value": "TEST6"
+							},
+							{
+								"name": "foperatn",
+								"value": "10"
+							},
+							{
+								"name": "fopealt",
+								"value": "1"
+							},
+							{
+								"name": "fsequence",
+								"value": 0
+							},
+							{
+								"name": "flavmac",
+								"value": 1
+							},
+							{
+								"name": "fsetmac",
+								"value": "1.5"
+							},
+							{
+								"name": "fsetman",
+								"value": 0
+							},
+							{
+								"name": "flavman",
+								"value": 5
+							},
+							{
+								"name": "fwrkcnt",
+								"value": "L2_DEPAL"
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

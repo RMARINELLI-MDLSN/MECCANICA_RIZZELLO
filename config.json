@@ -1,0 +1,17 @@
+{
+  "broker": {
+    "host": "192.168.1.135",
+    "port": 61613,
+    "user": "admin",
+    "password": "admin",
+    "queue": "ERP-NP"
+  },
+  "json_template": "MY_JSON3_TEMPLATE.json",
+  "part_number": "00005AUXIF000001",
+  "gui": {
+    "default_prefix": "ODP-CUTT",
+    "default_n_orders": 3,
+    "log_width": 80,
+    "log_height": 16
+  }
+}

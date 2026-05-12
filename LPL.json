@@ -1,0 +1,59 @@
+{
+  "action": "INS",
+  "entity": "ORD",
+  "rows": [
+    {
+      "operazioni": {
+        "rows": [
+          {
+            "columns": [
+              {"name": "ordine", "value": "ODP-CUTT-30"},
+              {"name": "operazione", "value": "10"},
+              {"name": "sequenza", "value": 10},
+              {"name": "fase", "value": "NULL"},
+              {"name": "descrizione", "value": "NULL"},
+              {"name": "qta_richiesta", "value": 150},
+              {"name": "qta_completata", "value": 0.0},
+              {"name": "qta_base", "value": 1.0},
+              {"name": "centro_assegnato", "value": "CDL_SLITTER"},
+              {"name": "macchina_assegnata", "value": "SLITTER"},
+              {"name": "t_lavoro_mac", "value": 0.0},
+              {"name": "t_lavoro_man", "value": 0.0},
+              {"name": "teff_lavoro_mac", "value": 0.0},
+              {"name": "teff_lavoro_man", "value": 0.0},
+              {"name": "t_setup_mac", "value": 0.0},
+              {"name": "t_setup_man", "value": 0.0},
+              {"name": "teff_setup_mac", "value": 0.0},
+              {"name": "teff_setup_man", "value": 0.0},
+              {"name": "c_macchina", "value":  0.0},
+              {"name": "c_manodopera", "value":  0.0},
+              {"name": "setup1", "value":  "setup1"}
+            ]
+          }
+        ]
+      },
+      "ordini": {
+        "columns": [
+          {"name": "ordine", "value": "ODP-CUTT-30"},
+          {"name": "part_number", "value": "00005AUXI0000001"},
+          {"name": "faltpnumb", "value": "0"},
+          {"name": "magazzino", "value": "NULL"},
+          {"name": "lotto", "value": "NULL"},
+          {"name": "qta_richiesta", "value": 150},
+          {"name": "qta_completata", "value": 0},
+          {"name": "data_emissione", "value": "2024-04-16T00:00:00Z"},
+          {"name": "frqstdate", "value": "2024-04-16T00:00:00Z"},
+          {"name": "frqduedate", "value": "2024-04-16T00:00:00Z"},
+          {"name": "cliente", "value": "VERSACE"},
+          {"name": "commessa", "value": "prova"},
+          {"name": "stato", "value": "REL"},
+          {"name": "alt_ciclo", "value": 0},
+          {"name": "tipo", "value": "MAKE"},
+          {"name": "cod_ciclo", "value": "CYC-VECTOR"},
+          {"name": "descrizione", "value": "Ordine per CutterIQ50"},
+          {"name": "REPARTO", "value": "PRODUZIONE"}
+        ]
+      }
+    }
+  ]
+}
